@@ -9,4 +9,4 @@ This repository contains 50 small Python programs, organized as one folder per e
 
 ## Notes
 - Each `main.py` is interactive where input is required.
-- Folder names are zero-padded to keep ordering clear.***
+- Folder names are zero-padded to keep ordering clear.
